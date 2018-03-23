@@ -1,14 +1,11 @@
-#Youngdo Cho
-
+# Youngdo Cho
 ###### Senior SW Engineer
 ###### actively working for EMBlock Inc, Blockchain Start-up
 ###### mailto: imyoungdocho@gmail.com | youngdo@emblock.co.kr <br/>
 
-<br/>
 
 ---------------
 ### Work Experience
-
 __Senior SW Engineer, Starting Member | EMBlock inc__&nbsp;(Dec 2017 - Present)
 
 &nbsp;&nbsp;&nbsp;Blockchain Startup making blockchain solution suitable for embedded devices and IoT environment
@@ -18,8 +15,6 @@ __Senior SW Engineer, Starting Member | EMBlock inc__&nbsp;(Dec 2017 - Present)
 * Blockchain Platform Development
 * Blockchain Mechanism based Application
 * Go to [EMBlock Homepage](http://www.emblock.co.kr)
-
-
 
 __Co-Founder, SW Engineer | P-ful inc__&nbsp;(Jul 2015 - Dec 2017)
 
@@ -36,12 +31,9 @@ __Researcher | Convergence Software Laboratory__&nbsp;(Nov 2013 - Oct 2015)
 * Adaptive Software, Cloud Storage based Service
 * Sogang University, Seoul, Korea
 
-</br>
-
 
 ---------------
 ### Project
-
 
 __Blockchain based IoT Reliability and Management System Development__&nbsp;(Apr - Dec 2017)
 
@@ -105,7 +97,6 @@ Sogang University (Seoul, Korea) | Aug 2010
 * Earned National Excellent Scholar of Science and Engineering | 2009
 * Campus Scholarship | 2008 - 2010
 
-
 ---------------
 ### Publication
 
@@ -124,3 +115,5 @@ Youngdo Cho, Sungwoong Lee, Sooyong Park, _A Case Study of COMET for Analysis of
 ---------------
 ### Patent
 A device and method to identify the functional behavior of service robot system, 10-2012-0067022, Sogang University Research Foundation, Sooyong Park/YoungdoCho/Hwangwook Kim/Dae-Kyoo Kim
+</br>
+
