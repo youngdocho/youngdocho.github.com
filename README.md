@@ -35,6 +35,12 @@ __Researcher | Convergence Software Laboratory__&nbsp;(Nov 2013 - Oct 2015)
 ---------------
 ### Project
 
+__HanmiGlobal Private Coin Development__&nbsp;(Dec 2017 - Present)
+
+* INOTONE
+* Blockchain-based Coin Application Development
+* C++, Java, MongoDB
+
 __Blockchain based IoT Reliability and Management System Development__&nbsp;(Apr - Dec 2017)
 
 * Institute for Information and Communications Technology Promotion (IITP)
