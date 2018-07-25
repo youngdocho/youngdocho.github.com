@@ -6,7 +6,7 @@
 
 ---------------
 ### Work Experience
-__Senior SW Engineer, Starting Member | EMBlock inc__&nbsp;(Dec 2017 - Present)
+__Senior SW Engineer, Starting Member, EMBlock inc__&nbsp;(Dec 2017 - Present)
 
 &nbsp;&nbsp;&nbsp;Blockchain Startup making blockchain solution suitable for embedded devices and IoT environment
 
@@ -17,7 +17,7 @@ __Senior SW Engineer, Starting Member | EMBlock inc__&nbsp;(Dec 2017 - Present)
 * Go to [EMBlock Homepage](http://www.emblock.co.kr)
 
 
-__Co-Founder, SW Engineer | P-ful inc__&nbsp;(Jul 2015 - Dec 2017)
+__Co-Founder, SW Engineer, P-ful inc__&nbsp;(Jul 2015 - Dec 2017)
 
 &nbsp;&nbsp;&nbsp;IT Startup making storage-based applications for better productivity
 
@@ -28,7 +28,7 @@ __Co-Founder, SW Engineer | P-ful inc__&nbsp;(Jul 2015 - Dec 2017)
 * Go to [P-ful Homepage](http://www.p-ful.com)
 
 
-__Researcher | Convergence Software Laboratory__&nbsp;(Nov 2013 - Oct 2015)
+__Researcher, Convergence Software Laboratory__&nbsp;(Nov 2013 - Oct 2015)
 
 * Adaptive Software, Cloud Storage based Service
 * Sogang University, Seoul, Korea
@@ -90,20 +90,20 @@ __Self-healing and Dynamic Redeployment Technologies for Dependable Service__&nb
 ---------------
 ### Education
  
-__Master of Computer Science and Engineering__&nbsp;
-Sogang University (Seoul, Korea) | Aug 2012
+__Master of Computer Science and Engineering__
+Sogang University (Seoul, Korea), Aug 2012
 
 * Software Systems Engineering Laboratory
 * Thesis title: An Interaction-Driven Approach to Identifying Functional Behaviors of Service Robot Systems
 * 1 yr Deans Scholarship & BK21 Fiscal Support Scholarship
 * TA of C Language, Software Engineering, Requirement Engineering, Practical Programming
 
-__Bachelor of Computer Science and Engineering__&nbsp;
-Sogang University (Seoul, Korea) | Aug 2010
+__Bachelor of Computer Science and Engineering__
+Sogang University (Seoul, Korea), Aug 2010
 
 * Summa Cum Laude
-* Earned National Scholarship of Science and Engineering | 2009
-* 5 Honors Scholarship for academic merit | 2008 - 2010
+* Earned National Scholarship of Science and Engineering (2009)
+* 5 Honors Scholarship for academic merit (2008 - 2010)
 
 
 ---------------
