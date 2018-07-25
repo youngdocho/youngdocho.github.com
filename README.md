@@ -37,7 +37,7 @@ __Researcher, Convergence Software Laboratory__&nbsp;(Nov 2013 - Oct 2015)
 ---------------
 ### Project
 
-__HanmiGlobal Private Coin Development__&nbsp;(Dec 2017 - Present)
+__HanmiGlobal Private Coin Development__&nbsp;(Dec 2017 - Jul 2018)
 
 * Blockchain-based Coin Application Development
 * C++, Java, MongoDB
