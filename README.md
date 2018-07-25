@@ -110,9 +110,11 @@ Sogang University (Seoul, Korea), Aug 2010
 ### Publication
 
 __International Conference__
+
 Youngdo Cho, Hwangwook Kim, Dae-Kyoo Kim and Sooyong Park, _An Interaction-Driven Approach to Identifying Functional Behaviors of Service Robot Systems_, 17th IEEE International Conference on Engineering of Complex Computer Systems (ICECCS 2012), 2012
 
 __Domestic Journal__
+
 Hwangwook Kim, Hyunji Yoon, Youngdo Cho, Vijayan Sugumaran, Sooyong Park, _Multilayered Adaptive Monitoring in Service Robots_, SSIRI 2011, p.76-83, 2011. 6
 
 Hwangwook Kim, Youngdo Cho, Sooyong Park, _Service Execution Model Generation for Runtime Fault Detection using Message Sniffing_, Journal of Korean Institute of Information Scientists and Engineers(KIISE) : Software and Applications, Vol.38(1), p.22-26, 2011. 1.
