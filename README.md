@@ -10,12 +10,12 @@ __Senior SW Engineer, Starting Member | EMBlock inc__&nbsp;(Dec 2017 - Present)
 
 &nbsp;&nbsp;&nbsp;Blockchain Startup making blockchain solution suitable for embedded devices and IoT environment
 
-* Planning, Research, Development
+* Planning, Research, Development & General
 * Blockchain for Embedded Devices
 * Blockchain Platform Development
 * Blockchain Mechanism based Application
 * Go to [EMBlock Homepage](http://www.emblock.co.kr)
-
+&nbsp;
 __Co-Founder, SW Engineer | P-ful inc__&nbsp;(Jul 2015 - Dec 2017)
 
 &nbsp;&nbsp;&nbsp;IT Startup making storage-based applications for better productivity
@@ -25,19 +25,18 @@ __Co-Founder, SW Engineer | P-ful inc__&nbsp;(Jul 2015 - Dec 2017)
 * Cloud Storage Consolidation Software for B2C
 * Software Development Outsourcing
 * Go to [P-ful Homepage](http://www.p-ful.com)
-
+&nbsp;
 __Researcher | Convergence Software Laboratory__&nbsp;(Nov 2013 - Oct 2015)
 
 * Adaptive Software, Cloud Storage based Service
 * Sogang University, Seoul, Korea
 
-
+&nbsp;
 ---------------
 ### Project
-
+&nbsp;
 __HanmiGlobal Private Coin Development__&nbsp;(Dec 2017 - Present)
 
-* INOTONE
 * Blockchain-based Coin Application Development
 * C++, Java, MongoDB
 
@@ -88,24 +87,26 @@ __Self-healing and Dynamic Redeployment Technologies for Dependable Service__&nb
 
 ---------------
 ### Education
-
-__Master of Computer Science and Engineering__
+&nbsp;  
+__Master of Computer Science and Engineering__&nbsp;
 Sogang University (Seoul, Korea) | Aug 2012
 
 * Software Systems Engineering Laboratory
 * Thesis title: An Interaction-Driven Approach to Identifying Functional Behaviors of Service Robot Systems
-* Campus TA Scholarship & BK21 Fiscal Support Scholarship
-
-__Bachelor of Computer Science and Engineering__
+* 1 yr Deans Scholarship & BK21 Fiscal Support Scholarship
+* TA of C Language, Software Engineering, Requirement Engineering, Practical Programming
+&nbsp;
+__Bachelor of Computer Science and Engineering__&nbsp;
 Sogang University (Seoul, Korea) | Aug 2010
 
 * Summa Cum Laude
-* Earned National Excellent Scholar of Science and Engineering | 2009
-* Campus Scholarship | 2008 - 2010
+* Earned National Scholarship of Science and Engineering | 2009
+* 5 Honors Scholarship for academic merit | 2008 - 2010
 
+&nbsp;
 ---------------
 ### Publication
-
+&nbsp;
 __International Conference__
 Youngdo Cho, Hwangwook Kim, Dae-Kyoo Kim and Sooyong Park, _An Interaction-Driven Approach to Identifying Functional Behaviors of Service Robot Systems_, 17th IEEE International Conference on Engineering of Complex Computer Systems (ICECCS 2012), 2012
 
